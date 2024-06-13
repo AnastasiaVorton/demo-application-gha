@@ -1,5 +1,5 @@
 locals {
-  owner   = "your_name"
+  owner   = "anastasia"
   purpose = "web-infrastructure-workshops"
 
   common_tags = {
